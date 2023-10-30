@@ -1,0 +1,21 @@
+* {
+  font-family: sans-serif;
+}
+
+nav {
+  background: purple;
+  padding: 20px;
+}
+
+nav a {
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+h1 {
+  color: rgb(102, 102, 96);
+  margin-top: 60px;
+  text-align: center;
+}
