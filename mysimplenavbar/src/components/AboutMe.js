@@ -1,6 +1,9 @@
 function AboutMe() {
     return (
-        <h1>About me</h1>
+        <div>
+            <h1>About me</h1>
+            <p>Hi! I'm Stacy!</p>
+        </div>
     );
 }
 
